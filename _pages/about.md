@@ -13,26 +13,11 @@ redirect_from:
 I am currently a Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 
 
-# News Within a Year
-
-- *2024.05* Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
-
-- *2024.04* One paper is accepted by IJCAI 2024.
-
 # Publications (First Author and First Co-author)
 
-- Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2312.04455)
+-Hongteng Xu\*, **Minjie Cheng\***, Regularized optimal transport layers for generalized global pooling operations. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Link](https://ieeexplore.ieee.org/document/10247589)
 
-- Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2401.06469)
-
-- **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://arxiv.org/abs/2208.05697) 
-
-- **Ang Lv**, Jinpeng Li, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
-
-- **Ang Lv**, Jinpeng Li, Shufang Xie, Rui Yan. Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
-
-- Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. Target-Side Input Augmentation for Sequence to Sequence Generation. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
-
+- **Minjie Cheng\***, Hongteng Xu\*, A Quasi-Wasserstein Loss for Learning Graph Neural Networks. *The ACM Web Conference 2024 (WWW'24).* [Link](https://dl.acm.org/doi/10.1145/3589334.3645586)
 
 # Other Publications
 
