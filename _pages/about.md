@@ -37,3 +37,6 @@ My research centers on optimal transport, GNNs, and AI4science, with a particula
 
 # Internships
 - *2023.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
+
+# Teaching
+- *2023*, Introduction to Machine Learning (Teaching Assistant)
