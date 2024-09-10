@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I’m Minjie. Welcome to my homepage! I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
-China](http://www.ruc.edu.cn/)(2021-Present), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
+China](http://www.ruc.edu.cn/) (2021-Present), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 My research centers on optimal transport, GNNs, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
 
 Email: chengminjie@ruc.edu.cn
