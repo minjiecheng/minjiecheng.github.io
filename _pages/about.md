@@ -13,7 +13,7 @@ redirect_from:
 I am currently a Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 
 
-# Publications (First Author and First Co-author)
+# Main Publications
 
 -**Regularized optimal transport layers for generalized global pooling operations**
   - Hongteng Xu\*, <u>Minjie Cheng</u>\*
