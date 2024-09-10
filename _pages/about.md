@@ -41,6 +41,6 @@ My research centers on optimal transport, GNNs, and AI4science, with a particula
 
 
 # Internships
-- *2022.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
+- *2023.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
 
 
