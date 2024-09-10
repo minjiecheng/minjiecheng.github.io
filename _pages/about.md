@@ -15,22 +15,36 @@ I am currently a Ph.D. student at [Gaoling School of Artificial Intelligence (GS
 
 # Publications (First Author and First Co-author)
 
--Hongteng Xu\*, **Minjie Cheng\***, Regularized optimal transport layers for generalized global pooling operations. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Link](https://ieeexplore.ieee.org/document/10247589)
+-**Regularized optimal transport layers for generalized global pooling operations**
+  - Hongteng Xu\*, **Minjie Cheng\***
+  - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Link](https://ieeexplore.ieee.org/document/10247589)
 
-- **Minjie Cheng\***, Hongteng Xu\*, A Quasi-Wasserstein Loss for Learning Graph Neural Networks. *The ACM Web Conference 2024 (WWW'24).* [Link](https://dl.acm.org/doi/10.1145/3589334.3645586)
+-**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
+  - **Minjie Cheng\***, Hongteng Xu\*
+  - *The ACM Web Conference 2024 (WWW 2024).* [Link](https://dl.acm.org/doi/10.1145/3589334.3645586)
+
 
 # Other Publications
 
-- Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2403.02178)
+- **MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction**
+  - Fanmeng Wang, Wentao Guo, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu, Zhifeng Gao
+  - *The 33rd ACM International Conference on Information and Knowledge Management (CIKM 24)* [Link](https://arxiv.org/abs/2406.04727)
+
+- **Hierarchical Contrastive Learning for Temporal Point Processes**
+  - Qingmei Wang, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu
+  - *The AAAI Conference on Artificial Intelligence (AAAI 23)* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26211)
+
+- **DTaxa: An actor–critic for automatic taxonomy induction**
+  - Yongming Han, Yanwei Lang, <u>Minjie Cheng</u>, Zhiqiang Geng, Guofei Chen, Tao Xia
+  - *Engineering Applications of Artificial Intelligence 2021* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003493)
+
 
 
 # Honors and Awards
-- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
-China, 2023 (中国人民大学拔尖创新人才)
-- CCF-Tencent Rhino-Bird Elite Talent Program, 2024（CCF-腾讯犀牛鸟精英人才计划）
+- *2022*, Outstanding Undergraduate Graduate, Southeast University.
+- *2019*, First Prize, Higher Mathematics Competition in Provinces, Jiangsu.
 
 # Internships
-- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
-
+- *2022.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
 
 
