@@ -12,8 +12,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
 China](http://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
-My research centers on optimal transport, graph neural networks, and AI for science, with a particular focus on advanced protein representation learning.
-
+My research centers on optimal transport, graph neural networks, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
 
 # Main Publications
 
