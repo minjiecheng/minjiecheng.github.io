@@ -16,7 +16,7 @@ My research centers on optimal transport, GNNs, and AI4science, with a particula
 
 # Publications
 
--**WWW24**A Quasi-Wasserstein Loss for Learning Graph Neural Networks.  [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
+-**[WWW24]**A Quasi-Wasserstein Loss for Learning Graph Neural Networks.  [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
   - <u>Minjie Cheng</u>\*, Hongteng Xu\*
 
 -**TPAMI23**Regularized optimal transport layers for generalized global pooling operations. [Paper](https://ieeexplore.ieee.org/document/10247589)
