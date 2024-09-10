@@ -1,3 +1,4 @@
+@@ -1,43 +1,43 @@
 ---
 permalink: /
 title: ""
@@ -7,35 +8,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <span class='anchor' id='about-me'></span>
-
 I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
-China](http://www.ruc.edu.cn/)(2021-Present), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
+China](http://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 My research centers on optimal transport, GNNs, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
-
 # Publications
 
--**[WWW24]**A Quasi-Wasserstein Loss for Learning Graph Neural Networks.  [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
+-**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
   - <u>Minjie Cheng</u>\*, Hongteng Xu\*
+  - *The ACM Web Conference 2024 (WWW 2024).* [Link](https://dl.acm.org/doi/10.1145/3589334.3645586)
 
--**TPAMI23**Regularized optimal transport layers for generalized global pooling operations. [Paper](https://ieeexplore.ieee.org/document/10247589)
+-**Regularized optimal transport layers for generalized global pooling operations**
   - Hongteng Xu\*, <u>Minjie Cheng</u>\*
-  
+  - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Link](https://ieeexplore.ieee.org/document/10247589)
+
 - **MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction**
   - Fanmeng Wang, Wentao Guo, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu, Zhifeng Gao
-  - *The 33rd ACM International Conference on Information and Knowledge Management (CIKM 24)* [Paper](https://arxiv.org/abs/2406.04727)
-
+  - *The 33rd ACM International Conference on Information and Knowledge Management (CIKM 24)* [Link](https://arxiv.org/abs/2406.04727)
+ 
 - **Hierarchical Contrastive Learning for Temporal Point Processes**
   - Qingmei Wang, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu
-  - *The AAAI Conference on Artificial Intelligence (AAAI 23)* [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26211)
-
+  - *The AAAI Conference on Artificial Intelligence (AAAI 23)* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26211)
+ 
 - **DTaxa: An actor–critic for automatic taxonomy induction**
   - Yongming Han, Yanwei Lang, <u>Minjie Cheng</u>, Zhiqiang Geng, Guofei Chen, Tao Xia
-  - *Engineering Applications of Artificial Intelligence 2021* [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003493)
+  - *Engineering Applications of Artificial Intelligence 2021* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003493)
 
 
 # Internships
 - *2023.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
-
-
