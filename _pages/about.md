@@ -1,4 +1,3 @@
-@@ -1,43 +1,43 @@
 ---
 permalink: /
 title: ""
@@ -9,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
+
 I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
 China](http://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 My research centers on optimal transport, GNNs, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
