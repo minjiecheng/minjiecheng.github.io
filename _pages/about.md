@@ -11,21 +11,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
-China](http://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
+China](http://www.ruc.edu.cn/)(2021-Present), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 My research centers on optimal transport, GNNs, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
 
-# Main Publications
+# Publications
 
--**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
+-<span style="color: green;">green text</span>**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
   - <u>Minjie Cheng</u>\*, Hongteng Xu\*
   - *The ACM Web Conference 2024 (WWW 2024).* [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
 
 -**Regularized optimal transport layers for generalized global pooling operations**
   - Hongteng Xu\*, <u>Minjie Cheng</u>\*
   - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Paper](https://ieeexplore.ieee.org/document/10247589)
-
-
-# Other Publications
 
 - **MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction**
   - Fanmeng Wang, Wentao Guo, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu, Zhifeng Gao
