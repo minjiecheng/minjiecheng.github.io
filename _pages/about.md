@@ -39,11 +39,6 @@ I am currently a Ph.D. student at [Gaoling School of Artificial Intelligence (GS
   - *Engineering Applications of Artificial Intelligence 2021* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003493)
 
 
-
-# Honors and Awards
-- *2022*, Outstanding Undergraduate Graduate, Southeast University.
-- *2019*, First Prize, Higher Mathematics Competition in Provinces, Jiangsu.
-
 # Internships
 - *2022.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
 
