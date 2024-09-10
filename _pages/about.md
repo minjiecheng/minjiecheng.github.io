@@ -16,14 +16,12 @@ My research centers on optimal transport, GNNs, and AI4science, with a particula
 
 # Publications
 
--<span style="color: green;">green text</span>**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
+-**WWW24**A Quasi-Wasserstein Loss for Learning Graph Neural Networks.  [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
   - <u>Minjie Cheng</u>\*, Hongteng Xu\*
-  - *The ACM Web Conference 2024 (WWW 2024).* [Paper](https://dl.acm.org/doi/10.1145/3589334.3645586)
 
--**Regularized optimal transport layers for generalized global pooling operations**
+-**TPAMI23**Regularized optimal transport layers for generalized global pooling operations. [Paper](https://ieeexplore.ieee.org/document/10247589)
   - Hongteng Xu\*, <u>Minjie Cheng</u>\*
-  - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Paper](https://ieeexplore.ieee.org/document/10247589)
-
+  
 - **MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction**
   - Fanmeng Wang, Wentao Guo, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu, Zhifeng Gao
   - *The 33rd ACM International Conference on Information and Knowledge Management (CIKM 24)* [Paper](https://arxiv.org/abs/2406.04727)
