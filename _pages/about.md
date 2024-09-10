@@ -16,11 +16,11 @@ I am currently a Ph.D. student at [Gaoling School of Artificial Intelligence (GS
 # Publications (First Author and First Co-author)
 
 -**Regularized optimal transport layers for generalized global pooling operations**
-  - Hongteng Xu\*, <u>Minjie Cheng\*</u>
+  - Hongteng Xu\*, <u>Minjie Cheng</u>\*
   - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).*[Link](https://ieeexplore.ieee.org/document/10247589)
 
 -**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
-  - <u>Minjie Cheng\*</u>, Hongteng Xu\*
+  - <u>Minjie Cheng</u>\*, Hongteng Xu\*
   - *The ACM Web Conference 2024 (WWW 2024).* [Link](https://dl.acm.org/doi/10.1145/3589334.3645586)
 
 
