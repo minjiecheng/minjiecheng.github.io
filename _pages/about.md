@@ -38,7 +38,7 @@ Email: chengminjie@ruc.edu.cn
   - *Engineering Applications of Artificial Intelligence 2021.* [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003493)
 
 # Honors and Awards
-  -中国人民大学2023年度优秀科研成果奖二等奖：Regularized optimal transport layers for generalized global pooling operations(ROTP)
+  - 中国人民大学2023年度优秀科研成果奖二等奖：Regularized optimal transport layers for generalized global pooling operations(ROTP)
 
 # Internships
 - *2023.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
