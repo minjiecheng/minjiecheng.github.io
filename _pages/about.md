@@ -44,7 +44,9 @@ Email: chengminjie@ruc.edu.cn
   - 中国人民大学2023年度优秀科研成果二等奖：Regularized optimal transport layers for generalized global pooling operations(ROTP)
 
 # Internships
-- *2023.07 - Present*, [Biomap](https://www.biomap.com/), Beijing, China.
+- *2023.07 - 2024.12*, [Biomap](https://www.biomap.com/), Beijing, China.
 
 # Teaching
 - *2023*, Introduction to Machine Learning (Teaching Assistant)
+- *2025*, Numerical Linear Algebra (Teaching Assistant)
+
