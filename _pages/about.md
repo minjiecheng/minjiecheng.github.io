@@ -16,6 +16,9 @@ My research centers on optimal transport, GNNs, and AI4science, with a particula
 Email: chengminjie@ruc.edu.cn
 
 # Publications
+-**WatE: A Wasserstein t-distributed Embedding Method for Information-enriched Graph Visualization**
+  - <u>Minjie Cheng</u>, Dixin Luo, Hongteng Xu
+  - *The Association for the Advancement of Artificial Intelligence (AAAI 2025).* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33758)
 
 -**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**
   - <u>Minjie Cheng</u>\*, Hongteng Xu\*
