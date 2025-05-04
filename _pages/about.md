@@ -48,5 +48,5 @@ Email: chengminjie@ruc.edu.cn
 
 # Teaching
 - *2023*, Introduction to Machine Learning (Teaching Assistant)
-- *2025*, Numerical Linear Algebra (Teaching Assistant)
+- *2025*, Modern Numerical Methods (Teaching Assistant)
 
