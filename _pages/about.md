@@ -9,13 +9,17 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Minjie. Welcome to my homepage! I am currently a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
-China](http://www.ruc.edu.cn/) (2021-Present), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
-My research centers on optimal transport, GNNs, and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
+Hi, I’m Minjie. Welcome to my homepage! I am currently a postdoctoral researcher collaborating with [Prof. Hongteng Xu](https://hongtengxu.github.io/) at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
+China](http://www.ruc.edu.cn/), where I received my Ph.D. degree. 
+My research centers on computational optimal transport, graph representation, OT-based neural network design and AI4science, with a particular focus on protein-related tasks such as representation learning, affinity predictions, and mutation-related challenges.
 
 Email: chengminjie@ruc.edu.cn
 
 # Publications
+-**WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction**
+  - Fanmeng Wang, <u>Minjie Cheng</u>, Hongteng Xu
+  - *International Conference on Machine Learning (ICML 2025).* [Link](https://arxiv.org/abs/2410.09795)
+
 -**WatE: A Wasserstein t-distributed Embedding Method for Information-enriched Graph Visualization**
   - <u>Minjie Cheng</u>, Dixin Luo, Hongteng Xu
   - *The Association for the Advancement of Artificial Intelligence (AAAI 2025).* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/33758)
