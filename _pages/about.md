@@ -16,6 +16,10 @@ My research centers on computational optimal transport, graph representation, OT
 Email: chengminjie@ruc.edu.cn
 
 # Publications
+-**Revisiting and Enhancing Graph Neural Networks through the Lens of Amortized Flows
+  - <u>Minjie Cheng</u>, Bokai Yan, Dixin Luo, Hongteng Xu
+  - *The ACM Web Conference 2026 (WWW 2026).* [Link](https://dl.acm.org/doi/abs/10.1145/3774904.3792632)
+
 -**WGFormer: An SE(3)-Transformer Driven by Wasserstein Gradient Flows for Molecular Ground-State Conformation Prediction**
   - Fanmeng Wang, <u>Minjie Cheng</u>, Hongteng Xu
   - *International Conference on Machine Learning (ICML 2025).* [Link](https://arxiv.org/abs/2410.09795)
